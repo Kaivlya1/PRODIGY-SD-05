@@ -1,0 +1,14 @@
+<dependencies>
+    <!-- JSoup for HTML parsing -->
+    <dependency>
+        <groupId>org.jsoup</groupId>
+        <artifactId>jsoup</artifactId>
+        <version>1.13.1</version>
+    </dependency>
+    <!-- OpenCSV for CSV file writing -->
+    <dependency>
+        <groupId>com.opencsv</groupId>
+        <artifactId>opencsv</artifactId>
+        <version>5.4</version>
+    </dependency>
+</dependencies>
